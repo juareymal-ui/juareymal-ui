@@ -200,7 +200,6 @@ graph LR
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Maldonado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-de-jes%C3%BAs-reyes-maldonado-b7475a2b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-juareymal--ui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juareymal-ui)
 [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lessjuareymal@gmail.com)
 
 <br>
