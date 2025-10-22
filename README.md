@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Juan Maldonado
+#  ¡Hola! Soy Juan Maldonado
 
 <img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/a22eb203-e46a-4a40-888e-db72cb806f22" />
 
 <br>
 
-### 🔬 Científico Computacional | 🤖 Entusiasta de ML | 📊 Analista de Datos
+### 🔬 Físico | 🤖 Entusiasta de ML | 📊 Ciencia de Datos
 
 <br>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## 🎯 Sobre mí
+##  Sobre mí
 
 <table>
 <tr>
@@ -39,9 +39,9 @@ class JuanAreymal:
 </td>
 <td width="50%">
 
-### 💡 Mi Enfoque
+###  Mi Enfoque
 
-Combino **física**, **matemáticas** y **programación** para resolver problemas complejos. Me apasiona transformar teoría en código funcional y explorar cómo el aprendizaje automático puede aplicarse a desafíos científicos.
+Combino **física**, **matemáticas** y **programación** para resolver problemas complejos. Me apasiona transformar física teoría en código funcional y explorar cómo el machine learning puede aplicarse a conceptos de física y matemáticas.
 
 </td>
 </tr>
@@ -49,7 +49,7 @@ Combino **física**, **matemáticas** y **programación** para resolver problema
 
 ---
 
-## 📚 Repositorios Destacados
+##  Repositorios Destacados
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Combino **física**, **matemáticas** y **programación** para resolver problema
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 Physics & Numerical Methods
+###  Physics & Numerical Methods
 [![Repo](https://img.shields.io/badge/Ver_Repositorio-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juareymal-ui/Physics_Numerical_Methods)
 
 **Implementaciones computacionales**
@@ -72,7 +72,7 @@ Métodos numéricos y algoritmos para resolver problemas físicos mediante compu
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ML & AI Lecture Notes
+###  ML & AI Lecture Notes
 [![Repo](https://img.shields.io/badge/Ver_Repositorio-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juareymal-ui/ML_AI_Lecture_Notes)
 
 **Aprendizaje automático & IA**
@@ -92,7 +92,7 @@ Apuntes y experimentos en inteligencia artificial y técnicas de machine learnin
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Apuntes y experimentos en inteligencia artificial y técnicas de machine learnin
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Apuntes y experimentos en inteligencia artificial y técnicas de machine learnin
 
 ---
 
-## 🌱 Actualmente Explorando
+##  Actualmente Explorando
 
 <div align="center">
 
@@ -170,14 +170,14 @@ graph LR
 
 </div>
 
-- 🔭 Profundizando en **Deep Learning** y sus aplicaciones
-- 🌱 Explorando **métodos numéricos avanzados** para física
-- 👯 Abierto a colaboraciones en **proyectos científicos**
-- 💬 Pregúntame sobre **Python científico, ML o métodos numéricos**
+-  Profundizando en **Deep Learning** y sus aplicaciones
+-  Explorando **algoritmos y métodos numéricos avanzados** para física
+-  Abierto a colaboraciones en **proyectos de física y ML**
+-  Pregúntame sobre **Python, ML o métodos numéricos**
 
 ---
 
-## 📫 Conecta Conmigo
+##  Conecta Conmigo
 
 <div align="center">
 
