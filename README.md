@@ -70,7 +70,7 @@ Métodos numéricos y algoritmos para resolver problemas físicos mediante compu
 </td>
 <td width="50%" valign="top">
 
-###  ML & AI Lecture Notes
+###  Machine Learning & Deep Learning
 [![Repo](https://img.shields.io/badge/Ver_Repositorio-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juareymal-ui/ML-AI-Lecture-Notes)
 
 **Aprendizaje automático & IA**
